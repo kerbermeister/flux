@@ -1,0 +1,9 @@
+server:
+  address: localhost
+  port: 8090
+
+spring:
+  data:
+    mongodb:
+      port: 27107
+      username: kerbermeister
